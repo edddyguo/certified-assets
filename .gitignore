@@ -1,4 +1,6 @@
 target/
 .idea/
 .dfx/
-.DS_Store
+.DS_Stor
+licenses
+
